@@ -38,7 +38,7 @@ function theme(){
         document.getElementById("gen").style.backgroundColor = "red";
         document.getElementById("gen").style.color = "gold";
         document.getElementById("source").style.backgroundColor = "red";
-        document.getElementById("source").style.cXolor = "gold";
+        document.getElementById("source").style.color = "gold";
         document.getElementById("sep").style.color = "black";
     } else {
         document.body.style.backgroundColor = "white";
